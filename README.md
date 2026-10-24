@@ -7,9 +7,9 @@ HR Analytics helps us with interpreting organizational data. It finds the people
 # Data Cleaning:
 
 * Deleting redundant columns.
-  Employeecount
-  over18
-  standardHours
+  "Employeecount"
+  "Over18"
+  "StandardHours"
 * Renaming the columns.
   Eg:Attrition- Employee Attrition
 * Dropping duplicates.
