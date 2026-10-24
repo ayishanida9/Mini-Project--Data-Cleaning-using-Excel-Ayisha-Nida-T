@@ -7,6 +7,7 @@ HR Analytics helps us with interpreting organizational data. It finds the people
 # Data Cleaning:
 
 * Deleting redundant columns.
+  
   "Employeecount"
   "Over18"
   "StandardHours"
@@ -17,4 +18,5 @@ HR Analytics helps us with interpreting organizational data. It finds the people
 * Cleaning individual columns.
 * Remove the NaN values from the dataset
 * Check for some more Transformations
+  
   Created column Named "Age Group" to  categorize employees by Age
